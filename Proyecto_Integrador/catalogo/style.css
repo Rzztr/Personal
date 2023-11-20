@@ -1,0 +1,43 @@
+html{
+    background-color: #808080;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    padding: 10px 10px 10px 10px;
+}
+#maintitulo h1{
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+}
+#img1 img{
+    width: 400px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+#img2 img{
+    width: 400px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+#img3 img{
+    width: 400px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+#precio1 p{
+    font-family: Arial;
+    font-size: 12px;
+    color: darkblue;
+}
+#precio2 p{
+    font-family: Arial;
+    font-size: 12px;
+    color: darkblue;
+}
+#precio3 p{
+    font-family: Arial;
+    font-size: 12px;
+    color: darkblue;
+}
